@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<xliff
+  version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-strict.xsd" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+  MadCap:translationStatus="bundled">
+  <file
+    xml:space="preserve"
+    original="Topic.htm"
+    source-language="en-us"
+    target-language="ar"
+    MadCap:file-filter=""
+    datatype="xhtml">
+    <header>
+      <skl><external-file
+          href="Topic.htm.skl" /></skl>
+      <phase-group>
+        <phase
+          phase-name="translation"
+          process-name="translation" />
+        <phase
+          phase-name="completion"
+          process-name="translation" />
+        <phase
+          phase-name="approval"
+          process-name="review" />
+        <phase
+          phase-name="pretrans"
+          process-name="pre-translation" />
+      </phase-group>
+      <count-group
+        name="MadCap Statistics">
+        <count
+          count-type="total"
+          unit="segment">7</count>
+        <count
+          count-type="x-subflow"
+          unit="trans-unit">0</count>
+      </count-group>
+      <tool
+        tool-id="MadCap Lingo 10.2 (Lingo release)"
+        tool-name="Lingo"
+        tool-version="10.2.6753.37789"
+        tool-company="MadCap Software" />
+    </header>
+    <body><trans-unit
+        id="1"
+        restype="x-xml-h1"
+        phase-name="pretrans"><source>Topic Title</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Topic Title</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="2"
+        restype="x-xml-td"
+        phase-name="pretrans"><source>Conditioned p inside a td<bpt
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;p MadCap:conditions="Default.PrintOnly" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"&gt;</bpt>excluded p tag<ept
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/p&gt;</ept></source><seg-source><mrk
+            mtype="seg"
+            mid="1">Conditioned p inside a td<bpt
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;p MadCap:conditions="Default.PrintOnly" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"&gt;</bpt></mrk><mrk
+            mtype="seg"
+            mid="2">excluded p tag<ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/p&gt;</ept></mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="2"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="3"
+        restype="x-xml-p"
+        phase-name="pretrans"><source>Text after the table.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Text after the table.</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="4"
+        restype="x-xml-p"
+        phase-name="pretrans"><source>Delete you text and replace</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Delete you text and replace</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="5"
+        restype="x-xml-p"
+        phase-name="pretrans"><source>with your own content.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">with your own content.</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="6"
+        restype="x-xml-p"
+        phase-name="pretrans"><source>Today is Friday!</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Today is Friday!</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit></body>
+  </file>
+</xliff>

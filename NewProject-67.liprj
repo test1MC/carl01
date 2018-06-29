@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LingoProject TargetLanguage="ar;es" xml:lang="ar" SourceLanguage="en-us" FileFormatVersion="6" CreatedInVersion="10" flattenSnippets="false" SelectedConditions="Default.PrintOnly" SelectedTarget="" SourceControlBound="false">
+    <ProjectFile Source="Target/tableCondition.flprj" Target="Target/tableCondition.flprj" />
+</LingoProject>
